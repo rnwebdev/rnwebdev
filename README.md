@@ -1,4 +1,7 @@
 <!-- Profile README for rnwebdev -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rnwebdev/rnwebdev/main/rnwebdev_banner.png" alt="rnwebdev banner" width="100%" />
+</p>
 
 <h1 align="center">👋 Hi, I'm Robert — <br>Web Developer & Digital Strategist</h1>
 
@@ -12,11 +15,9 @@
 
 ### 🧭 About Me
 
-Born in **1985**, I’ve been working in **media, tourism, and sports industries** for over 20 years —  
-bridging **design, web technology, and marketing strategy**.  
+Born in **1985**, I’ve been working in **media, tourism, and sports industries** for over 20 years — bridging **design, web technology, and marketing strategy**.  
 
-My background in **media design** and hands-on experience across **publishing, tourism, and digital ecosystems**  
-help me connect the dots between **creative ideas and technical execution**.  
+My background in **media design** and hands-on experience across **publishing, tourism, and digital ecosystems** help me connect the dots between **creative ideas and technical execution**.  
 
 I collaborate with organizations such as:  
 🗺️ **Tourismusverband Mecklenburgische Seenplatte e. V.**  
